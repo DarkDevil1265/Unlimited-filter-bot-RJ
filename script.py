@@ -10,7 +10,7 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>⭕️Add me as admin in your group and start filtering⭕️ :)</i>
+<i>Add me as admin in your group and start filtering :)</i>
 
 
 <b>Basic Commands;</b>
@@ -52,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : RJMALLU Filter Bot</b>
 
 ⭕️<b>Creater :</b> @RJMALLU    
 
