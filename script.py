@@ -52,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name :</b> <a href='http://t.me/UnlimitedFilterMallu_bot/'UNLIMITED FILTER BOT RJ</a>
+    ABOUT_MSG = """⭕️<b>My Name :</b> <a href='http://t.me/Poli_ano_bot/'UNLIMITED FILTER BOT RJ</a>
 
 ⭕️<b>Creater :</b> <a href= 'https://t.me/RJMALLU/'RJ</a>
 
