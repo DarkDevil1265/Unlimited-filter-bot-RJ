@@ -1,11 +1,11 @@
 class Script(object):
 
-    START_MSG = """<b>Hello {} How are you🌹,
+    START_MSG = """<b>salam, {} xoş gəldin🌹,
 
-I'm an advanced filter bot with many capabilities!
-Made by @RJMALLU
+mənçoxlu imkanlara malik qabaqcıl filter botuyam!
+@Tenha055 tərəfindən hazırlanmışdır.
 
-See <i>/help</i> for commands and more details.</b>
+Əmrlər və ətraflı məlumat üçün <i>/help</i>-ə baxın.</b>
 """
 
 
