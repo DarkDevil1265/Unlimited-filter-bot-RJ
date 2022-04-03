@@ -52,12 +52,12 @@ mən çoxlu imkanlara malik qabaqcıl filter botuyam!
 """
 
 
-    ABOUT_MSG = """⭕️<b>Mənim adım :</b> <a href='http://t.me/Poli_ano_bot/'UNLIMITED FILTER BOT RJ</a>
+    ABOUT_MSG = """⭕️<b>Mənim adım :</b> <a href='http://t.me/LedyGroupFilter_bot/'UNLIMITED FILTER BOT RJ</a>
 
-⭕️<b>Creater :</b> <a href= 'https://t.me/RJMALLU/'RJ</a>
+⭕️<b>Yaradıcı :</b> <a href= 'https://t.me/Tenha055/'RJ</a>
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Dil :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Kitabxana :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
