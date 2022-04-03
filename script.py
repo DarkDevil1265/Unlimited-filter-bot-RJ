@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>salam, {} xoş gəldin🌹,
 
-mənçoxlu imkanlara malik qabaqcıl filter botuyam!
+mən çoxlu imkanlara malik qabaqcıl filter botuyam!
 @Tenha055 tərəfindən hazırlanmışdır.
 
 Əmrlər və ətraflı məlumat üçün <i>/help</i>-ə baxın.</b>
@@ -10,49 +10,49 @@ mənçoxlu imkanlara malik qabaqcıl filter botuyam!
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>məni qrupunuza admin kimi əlavə edin və filterləməyə başlayın :)</i>
 
 
-<b>Basic Commands;</b>
+<b>Əsas əmrlər;</b>
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+/start - sağ olub olamamağımı yoxlayın!
+/help - köməy menyusu
+/about - mənim haqqımda!
 
 
-<b>Filter Commands;</b>
+<b>Filter əmrləri;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+<code>/add ad cavab verərək</code> -  filter əlavə edin
 
-<code>/del name</code>  -  Delete filter
+<code>/del ad</code>  -  filteri silin
 
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
+<code>/delall</code>  -  butun filterləri silin (Yalnız Qrup Sahibi!)
 
-<code>/viewfilters</code>  -  List all filters in chat
+<code>/viewfilters</code>  -  Söhbətdəki bütün filterləri sadalayın.
 
 
 <b>Connection Commands;</b>
 
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
+<code>/connect groupid</code>  -  Qrupunuzu Pm-ə qoşun. və sadə,
+<code>/connect</code> Qrupda.
 
-<code>/connections</code>  -  Manage your connections.
-
-
-<b>Extras;</b>
-
-/status  -  Shows current status of your bot (Auth User Only)
-
-/id  -  Shows ID information
-
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
+<code>/connections</code>  -  Əlaqələrinizi idarə edin.
 
 
-<b>© @RJMALLU </b>
+<b>Əlavə;</b>
+
+/status  -  Botunuzun cari vəziyətini göstərir (yalniz icazəli user)
+
+/id  - ID məlumatları
+
+<code>/info userid</code>  -  user məlumatları göstərir,  <code>/info</code> mesaja cavab olaraq
+
+
+<b>© @Tenha055 </b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name :</b> <a href='http://t.me/Poli_ano_bot/'UNLIMITED FILTER BOT RJ</a>
+    ABOUT_MSG = """⭕️<b>Mənim adım :</b> <a href='http://t.me/Poli_ano_bot/'UNLIMITED FILTER BOT RJ</a>
 
 ⭕️<b>Creater :</b> <a href= 'https://t.me/RJMALLU/'RJ</a>
 
