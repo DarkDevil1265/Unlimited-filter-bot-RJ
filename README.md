@@ -79,7 +79,7 @@
 Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
 
-## Any bugs or errors or suggestions, report at [RJMALLU](https://t.me/RJMALLU)
+## Any bugs or errors or suggestions, report at [KDLOVERTECH](https://t.me/KDLOVERTECH)
 
 
 ## Installation
