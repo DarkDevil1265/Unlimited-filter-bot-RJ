@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔰Join Channel🔰", url="https://t.me/malluinstafollowers"),
+                    InlineKeyboardButton("🔰Join Channel🔰", url="https://t.me/KDLOVERTECH"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🔰Join Group🔰", url="https://t.me/malluinstaufollowers"),
-                    InlineKeyboardButton("details about Group", url="https://t.me/Malluinstabot")
+                    InlineKeyboardButton("🔰Join Group🔰", url="https://t.me/kannada_movies_groups"),
+                    InlineKeyboardButton("details about Group", url="https://t.me/KDLOVER_bot")
                 ]
             ]
         ),
